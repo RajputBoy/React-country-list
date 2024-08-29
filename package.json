@@ -5,6 +5,7 @@
 		"start": "parcel index.html",
 		"build": "parcel build index.html"
 	},
+	
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
